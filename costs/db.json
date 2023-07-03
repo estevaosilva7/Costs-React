@@ -1,42 +1,77 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infraestutura"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Testes"
-        },
-        {
-            "id": 5,
-            "name": "Documentção"
-        },
-        {
-            "id": 6,
-            "name": "QA"
-        },
-        {
-            "id": 7,
-            "name": "Gestão de Projetos"
-        },
-        {
-            "id": 8,
-            "name": "Suporte/Manutenção"
-        },
-        {
-            "id": 9,
-            "name": "Bancos de Dados"
-        }
-    ]
-    
+  "projects": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "testettete",
+      "budget": "666",
+      "category": {
+        "id": "9",
+        "name": "Bancos de Dados"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Testes"
+    },
+    {
+      "id": 5,
+      "name": "Documentção"
+    },
+    {
+      "id": 6,
+      "name": "QA"
+    },
+    {
+      "id": 7,
+      "name": "Gestão de Projetos"
+    },
+    {
+      "id": 8,
+      "name": "Suporte/Manutenção"
+    },
+    {
+      "id": 9,
+      "name": "Bancos de Dados"
+    }
+  ]
 }
