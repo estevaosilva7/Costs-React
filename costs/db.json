@@ -34,6 +34,50 @@
       "cost": 0,
       "services": [],
       "id": 9
+    },
+    {
+      "name": "teste",
+      "budget": "45",
+      "category": {
+        "id": "8",
+        "name": "Suporte/Manutenção"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 10
+    },
+    {
+      "name": "teste",
+      "budget": "552222",
+      "category": {
+        "id": "6",
+        "name": "QA"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 11
+    },
+    {
+      "name": "r",
+      "budget": "5",
+      "category": {
+        "id": "1",
+        "name": "Infraestutura"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 12
+    },
+    {
+      "name": "rt",
+      "budget": "45",
+      "category": {
+        "id": "9",
+        "name": "Bancos de Dados"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 13
     }
   ],
   "categories": [
