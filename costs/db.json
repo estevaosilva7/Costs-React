@@ -1,30 +1,6 @@
 {
   "projects": [
     {
-      "id": 1
-    },
-    {
-      "id": 2
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
-    },
-    {
-      "id": 5
-    },
-    {
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "id": 8
-    },
-    {
       "name": "testettete",
       "budget": "666",
       "category": {
@@ -80,6 +56,12 @@
       "id": 13
     },
     {
+      "name": "React",
+      "budget": "77777",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
       "cost": 0,
       "services": [],
       "id": 14
@@ -100,27 +82,7 @@
     },
     {
       "id": 4,
-      "name": "Testes"
-    },
-    {
-      "id": 5,
-      "name": "Documentção"
-    },
-    {
-      "id": 6,
-      "name": "QA"
-    },
-    {
-      "id": 7,
-      "name": "Gestão de Projetos"
-    },
-    {
-      "id": 8,
-      "name": "Suporte/Manutenção"
-    },
-    {
-      "id": 9,
-      "name": "Bancos de Dados"
+      "name": "Planejamento"
     }
   ]
 }
