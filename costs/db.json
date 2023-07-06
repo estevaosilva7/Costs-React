@@ -1,28 +1,6 @@
 {
   "projects": [
     {
-      "name": "teste",
-      "budget": "45",
-      "category": {
-        "id": "8",
-        "name": "Suporte/Manutenção"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "name": "rt",
-      "budget": "45",
-      "category": {
-        "id": "9",
-        "name": "Bancos de Dados"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
       "name": "React",
       "budget": "77777",
       "category": {
@@ -32,6 +10,17 @@
       "cost": 0,
       "services": [],
       "id": 14
+    },
+    {
+      "name": "testeSu",
+      "budget": "30",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 15
     }
   ],
   "categories": [
