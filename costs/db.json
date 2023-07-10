@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "React",
-      "budget": "77777",
+      "name": "Atualizado",
+      "budget": "4000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
