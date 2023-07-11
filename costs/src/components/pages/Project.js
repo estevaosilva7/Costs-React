@@ -6,6 +6,8 @@ import Message from '../layout/Message'
 import { useParams } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import ProjectForm from '../project/ProjectForm'
+import ServiceForm from '../service/ServiceForm'
+
 
 
 function Project() {
@@ -105,8 +107,10 @@ function Project() {
                     <button className={styles.btn} onClick={toggleServiceForm} >
                         {!showServiceForm ? 'Adicionar serviço' : 'Fechar'}
                     </button>  
-                    <div className={styles.project_info} >
-                        {showServiceForm && <div> formulário do serviço </div> }
+                    <div className={styles.project_info}>
+                        {showServiceForm && (
+                            <ServiceForm />
+                        )}
                     </div>  
                 </div>
                 <h2> Serviços</h2>
