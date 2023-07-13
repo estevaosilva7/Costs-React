@@ -7,8 +7,19 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 398,
+      "services": [
+        {
+          "name": "tica ",
+          "cost": "199",
+          "description": "et"
+        },
+        {
+          "name": "tica ",
+          "cost": "199",
+          "description": "et"
+        }
+      ],
       "id": 14
     },
     {
