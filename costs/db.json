@@ -7,7 +7,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 398,
+      "cost": 567,
       "services": [
         {
           "name": "tica ",
@@ -18,6 +18,16 @@
           "name": "tica ",
           "cost": "199",
           "description": "et"
+        },
+        {
+          "name": "dev PHP",
+          "cost": "70",
+          "description": "Inputs"
+        },
+        {
+          "name": "teste do tesr",
+          "cost": "99",
+          "description": "teste"
         }
       ],
       "id": 14
