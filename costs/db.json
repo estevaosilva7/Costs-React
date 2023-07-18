@@ -39,8 +39,14 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 15,
+      "services": [
+        {
+          "name": "up",
+          "cost": "15",
+          "description": "up"
+        }
+      ],
       "id": 15
     }
   ],
