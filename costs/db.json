@@ -1,53 +1,15 @@
 {
   "projects": [
     {
-      "name": "Atualizado",
-      "budget": "400000",
+      "name": "Up",
+      "budget": "150",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 567,
-      "services": [
-        {
-          "name": "tica ",
-          "cost": "199",
-          "description": "et"
-        },
-        {
-          "name": "tica ",
-          "cost": "199",
-          "description": "et"
-        },
-        {
-          "name": "dev PHP",
-          "cost": "70",
-          "description": "Inputs"
-        },
-        {
-          "name": "teste do tesr",
-          "cost": "99",
-          "description": "teste"
-        }
-      ],
-      "id": 14
-    },
-    {
-      "name": "testeSu",
-      "budget": "30",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 15,
-      "services": [
-        {
-          "name": "up",
-          "cost": "15",
-          "description": "up"
-        }
-      ],
-      "id": 15
+      "cost": 0,
+      "services": [],
+      "id": 1
     }
   ],
   "categories": [
