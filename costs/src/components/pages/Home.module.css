@@ -27,3 +27,18 @@
     width: 350px;
     margin: 2em 0;
 }
+
+@media (max-width: 768px) {
+    .home_container {
+        padding: 2em; 
+    }
+
+    .home_container h1 {
+        font-size: 2em; 
+    }
+
+    .home_container img {
+        width: 250px; 
+        margin: 1em 0; 
+    }
+}

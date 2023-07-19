@@ -9,3 +9,14 @@
 .loader {
     width: 50px;
 }
+
+@media (max-width: 768px) {
+    .loader_container {
+        flex-direction: column;
+        height: auto; 
+    }
+
+    .loader {
+        width: 30px;
+    }
+}

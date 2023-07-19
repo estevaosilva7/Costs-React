@@ -1,6 +1,6 @@
 .newproject_container {
     width: 450px;
-    margin:  0 auto;
+    margin: 0 auto;
     padding: 3em;
 }
 
@@ -10,4 +10,11 @@
 
 .newproject_container p {
     color: #7b7b7b;
+}
+
+@media (max-width: 768px) {
+    .newproject_container {
+        width: 100%; 
+        padding: 1.5em; 
+    }
 }

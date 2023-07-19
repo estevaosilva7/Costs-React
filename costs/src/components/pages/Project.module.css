@@ -46,3 +46,23 @@
 .project_info {
     width: 100%;
 }
+
+@media (max-width: 768px) {
+    .project_details {
+        padding: 1em; 
+    }
+
+    .project_details h1 {
+        font-size: 1.5em; 
+    }
+
+    .details_container,
+    .service_form_container {
+        flex-direction: column; 
+    }
+
+    .btn {
+        width: 100%; 
+        max-height: none; 
+    }
+}

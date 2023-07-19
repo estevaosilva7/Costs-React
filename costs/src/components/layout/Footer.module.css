@@ -8,10 +8,10 @@
 .social_list {
     display: flex;
     justify-content: center;
-    list-style-type:none;
+    list-style-type: none;
 }
 
-.social_list li{
+.social_list li {
     margin: 0 1em;
 }
 
@@ -31,4 +31,18 @@
 .copy_right span {
     font-weight: bold;
     color: #ffbb33;
+}
+
+@media (max-width: 768px) {
+    .footer {
+        padding: 2em; 
+    }
+
+    .social_list {
+        flex-wrap: wrap; 
+    }
+
+    .social_list li {
+        margin: 0.5em; 
+    }
 }

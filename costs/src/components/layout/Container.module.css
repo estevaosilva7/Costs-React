@@ -17,3 +17,23 @@
 .column {
     flex-direction: column;
 }
+
+@media (max-width: 768px) {
+    .container {
+        width: 100%; 
+        justify-content: center; 
+        padding: 0 1em; 
+    }
+
+    .min-height {
+        
+    }
+
+    .star {
+        
+    }
+
+    .column {
+        
+    }
+}
