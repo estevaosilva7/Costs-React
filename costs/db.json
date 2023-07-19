@@ -1,17 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Teste",
-      "budget": "50",
-      "category": {
-        "id": "1",
-        "name": "Infraestutura"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
