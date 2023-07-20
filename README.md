@@ -12,6 +12,15 @@ Conta com as seguintes funções:
 <li>   Mensagens de alerta por cada atividade concluída </li>
 </ul>
 
+<p></p>
+<ul>
+
+
+https://github.com/estevaosilva7/Costs-React/assets/113836244/3f038eb8-dd79-4743-a67d-3a7cbab08587
+
+</ul>
+
+
 
 
 
